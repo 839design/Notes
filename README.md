@@ -1,2 +1,2 @@
 # Notes
-Just a few notes
+Just a few notes about our current projects and updates. 
